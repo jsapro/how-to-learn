@@ -1,0 +1,7 @@
+.section-title_theme_dark {
+  position: relative;
+  width: 60%;
+  margin: auto;
+  z-index: 10;
+  padding: 90px 0 20px 0;
+}

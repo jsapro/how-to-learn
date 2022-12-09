@@ -1,0 +1,9 @@
+.rotation {
+  animation: rotationOfSquare 20s linear infinite;
+}
+
+@keyframes rotationOfSquare {
+  100% {
+    rotate: 360deg;
+  }
+}
