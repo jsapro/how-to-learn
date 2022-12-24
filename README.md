@@ -1,7 +1,4 @@
 
-
-
-
 # <img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="70" width="1100">
 <br/>
 
@@ -9,13 +6,11 @@
 # <img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="70" width="1100">
 <br/>
 
-
-
-<img align="right" src="./images/cards-interliving.png" height="200" width="200">
-<img align="left" src="./images/code.jpeg" alt="project photo" height="800" width="30"
-
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="800" width="30"
      
 ## В процессе работы изучаются следующие темы:
+
+<img align="right" src="./images/cards-interliving.png" height="200" width="200">
 
  + :wink:Флексбокс-вёрстка
  + :wink:Расширенные возможности HTML и CSS
