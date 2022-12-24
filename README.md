@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="./images/code.jpeg" alt="project photo" height="100" width="1100">
+<img align="right" src="./images/code.jpeg" alt="project photo" height="70" width="1100">
 <br/>
 
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум:thumbsup:
