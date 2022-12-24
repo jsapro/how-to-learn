@@ -4,6 +4,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
+<img align="left" src="./images/cards-question.png" alt="project photo" height="200" width="200"
 
 
 В процессе работы изучаются следующие темы:
@@ -21,10 +22,12 @@
 - Дебаггинг в вёрстке.
 
 <br clear="right"/>
+<br clear="left"/>
 
 ## Необходимо доработать:
 
 <img align="right" src="./images/cards-question.png" alt="project photo" height="200" width="200">
+<img align="left" src="./images/cards-interliving.png" height="200" width="200">
 
 - шрифты;
 - добавить видео;
@@ -39,6 +42,7 @@
 - +
  
  <br clear="right"/>
+ <br clear="left"/>
  
 <img align="right" src="./images/sun.PNG" height="200" width="1100">
 
