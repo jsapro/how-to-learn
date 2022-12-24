@@ -53,7 +53,10 @@
  <br clear="right"/>
  <br clear="left"/>
 
-<img align="right" src="./images/sun.PNG" height="100" width="1100">
+<img src="./images/sun.PNG" height="100" width="1100">
+<img src="https://media.giphy.com/media/vB7WSUfplJahO/giphy.gif" height="100" width="1100">
+
+
 
 
 
