@@ -28,10 +28,10 @@
 <img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="300" width="300">
 
 
- + :sunglasses:шрифты;
- + :sunglasses:добавить видео;
- + :sunglasses:проверить код на кроссбраузерность и дописать все вендорные префиксы;
- + :sunglasses:добавить формы.
+ + :sunglasses:шрифты
+ + :sunglasses:добавить видео
+ + :sunglasses:проверить на кроссбраузерность, дописать вендорные префиксы
+ + :sunglasses:добавить формы
  + :star:
  + :star:
  + :star:
