@@ -1,3 +1,5 @@
+<img align="right" src="./images/code.jpeg" height="320" width="1100">
+
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
 <br/>
 <img align="right" src="./images/cards-interliving.png" height="300" width="300">
