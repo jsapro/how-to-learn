@@ -1,4 +1,4 @@
-<img align="right" src="./images/code.jpeg" height="320" width="1100">
+<img align="right" src="./images/code.jpeg" height="115" width="1100">
 
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
 <br/>
