@@ -1,12 +1,8 @@
-
-# <img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="400" width="1100">
-<br/>
-
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум:thumbsup:
 
 <br/>
-<img src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="33" width="1100">
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="810" width="33">
+
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="805" width="33">
 
 ## В процессе работы изучаются следующие темы:
 
