@@ -12,7 +12,6 @@
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
 <img align="left" src="./images/code.jpeg" alt="project photo" height="800" width="30"
 
-
 ## В процессе работы изучаются следующие темы:
 
  + :wink:Флексбокс-вёрстка
@@ -33,6 +32,7 @@
 ## Необходимо доработать:
 
 <img align="right" src="./images/cards-question.png" alt="project photo" height="200" width="200">
+<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
 
  + :sunglasses:+шрифты;
  + :sunglasses:+добавить видео;
