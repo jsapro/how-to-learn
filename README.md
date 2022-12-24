@@ -6,9 +6,13 @@
 <br/>
 
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
+<br/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
+<br/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
+<br/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
+<br/>
 <img align="left" src="./images/code.jpeg" alt="project photo" height="800" width="30"
 
 
@@ -32,8 +36,11 @@
 ## Необходимо доработать:
 
 <img align="right" src="./images/cards-question.png" alt="project photo" height="200" width="200">
+<br clear="right"/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
+<br clear="right"/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
+<br clear="right"/>
 <img align="right" src="./images/sun.PNG" alt="project photo" height="40" width="200">
 
 - шрифты;
