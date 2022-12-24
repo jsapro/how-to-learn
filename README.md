@@ -37,7 +37,7 @@
  
  <br clear="right"/>
  
-<img align="right" src="./images/sun.PNG" height="100" width="1000">
+<img align="right" src="./images/sun.PNG" height="320" width="1100">
 
 
 
