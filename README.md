@@ -1,11 +1,11 @@
 <img align="right" src="./images/code.jpeg" alt="project photo" height="100" width="1100">
-
-<p style="line-height:3.5em;"># Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум</p>
+---------------------------------------------------------------------------------------------------------
+# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
 
 <br/>
-&nbsp;&nbsp;&nbsp;
+
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
-<img align="left" src="./images/cards-question.png" alt="project photo" height="320" width="320"
+<img align="left" src="./images/sun.PNG" alt="project photo" height="900" width="100"
 
 
 В процессе работы изучаются следующие темы:
@@ -23,7 +23,7 @@
 - Дебаггинг в вёрстке.
 
 <br clear="right"/>
-<br clear="left"/>
+
 
 ## Необходимо доработать:
 
