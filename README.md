@@ -1,32 +1,4 @@
 <img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="100" width="33">
-+
--
-*
-/
-1
-5
-7
-a
-g
-e
-3
-#
-^
-$
-&
-@
-~
-_
--
-)
-(
-&
-/
-"
-;
-:
-\
-|
 
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум:thumbsup:
 
