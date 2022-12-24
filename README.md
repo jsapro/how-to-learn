@@ -1,12 +1,12 @@
 <img align="right" src="./images/code.jpeg" alt="project photo" height="100" width="1100">
 <br/>
-$~$
+
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
 
 <br/>
 
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
-<img align="left" src="./images/code.jpeg" alt="project photo" height="700" width="10"
+<img align="left" src="./images/code.jpeg" alt="project photo" height="700" width="30"
 
 
 В процессе работы изучаются следующие темы:
