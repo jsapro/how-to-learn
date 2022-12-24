@@ -1,5 +1,3 @@
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="100" width="33">
-
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум:thumbsup:
 
 <br/>
@@ -20,7 +18,7 @@
  + :wink:Анимации и трансформации
  + :wink:Разметка и вёрстка форм
  + :wink:Пути к файлам и организация файлов по БЭМ
- – [x] :wink:Дебаггинг в вёрстке
+ + :wink:Дебаггинг в вёрстке
 
 <br clear="right"/>
 
@@ -30,7 +28,7 @@
 <img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="200" width="200">
 
 
- – [] :sunglasses:+шрифты;
+ +:sunglasses:+шрифты;
  + :sunglasses:+добавить видео;
  + :sunglasses:+проверить код на кроссбраузерность и дописать все вендорные префиксы;
  + :sunglasses:+добавить формы.
