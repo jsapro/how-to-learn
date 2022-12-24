@@ -6,7 +6,8 @@
 
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="820" width="35">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="800" width="33">
+
 ## В процессе работы изучаются следующие темы:
 
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
