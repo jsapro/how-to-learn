@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="800" width="30">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="800" width="100">
      
 ## В процессе работы изучаются следующие темы:
 
