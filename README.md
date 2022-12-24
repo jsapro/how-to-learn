@@ -1,7 +1,5 @@
 <img align="right" src="https://picsum.photos/400/400">
-<img align="right" src="./images/logo_place_footer.svg">
-# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум.
-
+# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) ![лого Яндекс Практикум](./images/logo_place_footer.svg)
 
 В процессе работы изучаются следующие темы:
 
