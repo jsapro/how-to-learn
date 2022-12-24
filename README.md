@@ -1,4 +1,4 @@
-# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/)Яндекс Практикум
+# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
 <br/>
 <img align="right" src="./images/cards-interliving.png" height="300" width="300">
 
@@ -18,13 +18,17 @@
 - Дебаггинг в вёрстке.
 
 <br clear="right"/>
-<img align="right" src="./images/cards-question.png" height="300" width="300">
 
 ## Необходимо доработать:
+
+<img align="right" src="./images/cards-question.png" height="300" width="300">
 
 - шрифты;
 - добавить видео;
 - проверить код на кроссбраузерность и дописать все вендорные префиксы;
 - добавить формы.
+
+<br clear="right"/>
+![восход солнца](./images/sun.PNG)
 
 
