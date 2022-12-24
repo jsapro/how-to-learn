@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="900" width="33">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="100" width="33">
 +
 -
 *
