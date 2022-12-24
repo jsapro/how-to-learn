@@ -2,11 +2,11 @@
 
 
 
-<img src="./images/code.jpeg" alt="project photo" height="70" width="1100">
+# <img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="70" width="1100">
 <br/>
 
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум:thumbsup:
-<img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="70" width="1100">
+# <img src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" alt="project photo" height="70" width="1100">
 <br/>
 
 
