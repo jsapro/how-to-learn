@@ -28,7 +28,7 @@
 <img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="200" width="200">
 
 
- +:sunglasses:+шрифты;
+ + :sunglasses:+шрифты;
  + :sunglasses:+добавить видео;
  + :sunglasses:+проверить код на кроссбраузерность и дописать все вендорные префиксы;
  + :sunglasses:+добавить формы.
