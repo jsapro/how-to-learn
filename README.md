@@ -1,3 +1,4 @@
+<img align="right" src="https://picsum.photos/400/400">
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) ![лого Яндекс Практикум](./images/logo_place_footer.svg)
 
 ![изображение кода на экране](./images/code.jpeg)
