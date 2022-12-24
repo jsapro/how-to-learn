@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="850" width="40">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="850" width="30">
      
 ## В процессе работы изучаются следующие темы:
 
@@ -29,10 +29,7 @@
 
 ## Необходимо доработать:
 
-<img align="right" src="./images/cards-question.png" alt="project photo" height="200" width="200">
 <img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="200" width="200">
-
-
 
 
  + :sunglasses:+шрифты;
