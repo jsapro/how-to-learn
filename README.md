@@ -1,10 +1,11 @@
 <img align="right" src="./images/code.jpeg" alt="project photo" height="100" width="1100">
 
-# Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум
+<p style="line-height:3.5em;"># Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/) Яндекс Практикум</p>
+
 <br/>
 &nbsp;&nbsp;&nbsp;
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
-<img align="left" src="./images/cards-question.png" alt="project photo" height="200" width="200"
+<img align="left" src="./images/cards-question.png" alt="project photo" height="320" width="320"
 
 
 В процессе работы изучаются следующие темы:
@@ -27,7 +28,7 @@
 ## Необходимо доработать:
 
 <img align="right" src="./images/cards-question.png" alt="project photo" height="200" width="200">
-<img align="left" src="./images/cards-interliving.png" height="200" width="200">
+<img align="left" src="./images/cards-interliving.png" height="320" width="320">
 
 - шрифты;
 - добавить видео;
