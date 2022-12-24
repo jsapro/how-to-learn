@@ -1,5 +1,6 @@
-<img align="right" src="./images/cards-interliving.png" height="300" width="300">
 # Практическая работа в рамках [курса Веб‑разработчик](https://practicum.yandex.ru/web/)Яндекс Практикум
+<br/>
+<img align="right" src="./images/cards-interliving.png" height="300" width="300">
 
 
 В процессе работы изучаются следующие темы:
@@ -16,7 +17,7 @@
 - Пути к файлам и организация файлов по БЭМ.
 - Дебаггинг в вёрстке.
 
-<br clear="left"/>
+<br clear="right"/>
 <img align="right" src="./images/cards-question.png" height="300" width="300">
 
 ## Необходимо доработать:
