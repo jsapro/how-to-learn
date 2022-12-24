@@ -36,7 +36,8 @@
 - +
  
  <br clear="right"/>
-<img align="right" src="./images/sun.PNG" height="30" width="1000">
-![восход солнца](./images/sun.PNG)
+ 
+<img align="right" src="./images/sun.PNG" height="100" width="1000">
+
 
 
