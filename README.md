@@ -6,10 +6,10 @@
 <br/>
 
 <img align="right" src="./images/cards-interliving.png" height="200" width="200">
-<img align="left" src="./images/code.jpeg" alt="project photo" height="900" width="30"
+<img align="left" src="./images/code.jpeg" alt="project photo" height="800" width="30"
 
 
-В процессе работы изучаются следующие темы:
+## В процессе работы изучаются следующие темы:
 
 - Расширенные возможности HTML и CSS.
 - Флексбокс-вёрстка.
