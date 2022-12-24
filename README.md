@@ -6,7 +6,7 @@
 
 ## В процессе работы изучаются следующие темы:
 
-<img align="right" src="./images/cards-interliving.png" height="300" width="300">
+<img align="right" src="./images/cards-interliving.png" height="320" width="320">
 
  + :wink:Флексбокс-вёрстка
  + :wink:Расширенные возможности HTML и CSS
@@ -25,7 +25,7 @@
 
 ## Необходимо доработать:
 
-<img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="300" width="300">
+<img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="project photo" height="320" width="320">
 
 
  + :sunglasses:шрифты
