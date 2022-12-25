@@ -2,8 +2,10 @@
 
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="825" width="33" border-radius="10%">
-<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="825" width="33" border-radius="10">
+<img align="left" src="https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif" alt="project photo" height="825" width="33">
+<img align="left" src="https://media.giphy.com/media/3og0IV7MOCfnm85iRa/giphy-downsized-large.gif" alt="project photo" height="825" width="33">
+<img align="left" src="https://media.giphy.com/media/l1Et7Qw1XjvunS0Io/giphy.gif" alt="project photo" height="825" width="33">
+
 
 ## В процессе работы изучаются следующие темы:
 
